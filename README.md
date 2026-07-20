@@ -6,7 +6,7 @@ Tool for blitzkrieg method in Geometry Dash.
 
 ## EN
 
-**What is it**
+**What is it**\n
 A tool for the "blitzkrieg" method in GD. It generates runs starting from specific points (start positions).
 
 **Build**
@@ -16,7 +16,7 @@ dotnet publish -c Release -o publish /p:SelfContained=true /p:PublishSingleFile=
 
 ## RU
 
-**Что это**
+**Что это**\n
 Тул для метода blitzkrieg в GD. Генерирует раны из стартпосов.
 
 **Сборка**
